@@ -47,16 +47,7 @@ int main()
     cout<<"Bitwise xor="<<var1^var2<<endl;
     cout<<"Bitwise left shift"<<(12>>1)<<endl;
     cout<<"Bitwise right shift"<<(12<<1)<<endl<<endl;
-
-    cout<<" LOGICAL OPERATORS"<<endl;
-    
-    cout
-    
-    
-    
-    
-
-    
+        
    
     return 0;
 }
